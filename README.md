@@ -1,2 +1,2 @@
-# HoloHands
-Touchless gesture-powered interactions
+# WaveNet
+Real-time hand gesture recognition
