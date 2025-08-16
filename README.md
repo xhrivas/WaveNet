@@ -1,2 +1,2 @@
-# HoloHands-
+# HoloHands
 Touchless gesture-powered interactions
