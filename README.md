@@ -60,4 +60,4 @@ Clone the repo and install dependencies:
 ```bash
 git clone https://github.com/<xhrivas>/WaveNet.git
 cd WaveNet
-pip install -r requirements.txt
+pip install opencv-python mediapipe fastapi uvicorn
